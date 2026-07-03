@@ -1,4 +1,8 @@
-# todo_task_app  https://to-do-task-app-cyan.vercel.app/auth/register
+# todo_task_app 
+ 
+ Test App : https://to-do-task-app-cyan.vercel.app/auth/register
+ 
+ 
  🚀 Flask To-Do Task Manager  A sleek, lightweight, and fully functional web application built using Python and Flask to manage daily tasks efficiently. This project features user authentication, a structured database layout, and full CRUD (Create, Read, Update, Delete) capabilities. 
 
  Features: 
